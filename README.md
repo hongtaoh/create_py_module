@@ -137,7 +137,9 @@ pip install twine
 twine upload dist/*
 ```
 
-然后粘贴你刚才保存的 token。然后你就可以看到你的包在 pypi 上线了：https://pypi.org/project/htpymodule/。所有人都可以通过运行
+然后粘贴你刚才保存的 token。然后你就可以看到你的包在 pypi 上线了：https://pypi.org/project/htpymodule/
+
+所有人都可以通过运行
 
 ```sh
 pip install htpymodule
