@@ -143,7 +143,7 @@ pip install htpymodule
 
 来安装你的包。
 
-## 更新
+## 如何更新
 
 每次更新时，你需要更改 `htpymodule/setup.py` 里的 `version`，比如，从 `0.1` 改成 `0.1.1`。
 
