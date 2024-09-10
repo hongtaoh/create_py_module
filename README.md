@@ -126,7 +126,9 @@ print(divide(10, 2))     # Output: 5.0
 
 你大概率需要设置双重验证 (Two factor authentication (2FA))。
 
-弄好之后，在 https://pypi.org/manage/account/，找到 API tokens，选择 Add API token，随便填一个 token name，选择 Entire account，然后点击 Add token。把 token 保存起来。
+弄好之后，打开 https://pypi.org/manage/account/
+
+找到 API tokens，选择 Add API token，随便填一个 token name，选择 Entire account，然后点击 Add token。把 token 保存起来。
 
 然后，在根目录运行
 
